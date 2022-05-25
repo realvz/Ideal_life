@@ -1,11 +1,17 @@
-## Awesome Life Suggestions
+## Awesome Life Suggestions 🙌🏽
 
 > “An unexamined life is not worth living” – Socrates
 
 
 This repository is an attempt to compile a list of actions that improves the quality of life.
 
-The list is inspired by the list James Clear authored in [Atomic Habits](https://jamesclear.com/atomic-habits). While the list may seem obvious, you'd be surprised to learn how many adults grow up unprepared for life. 
+The list is inspired by the list James Clear authored in [Atomic Habits](https://jamesclear.com/atomic-habits). While the list may seem obvious, you'd be surprised to learn how many adults grow up unprepared for life. That's partly because the human brain tries to do everything its asked using autopilot. Our brains are excellent at fooling us and we're quick to overestimate our knowledge (see [The Dunning Kruger effect](https://en.wikipedia.org/wiki/Dunning–Kruger_effect)). As Donald Rumsfeld said, we have known unknown (the things you know you don't know), but there are are also *unknown* unknowns (things you don't know you don't know) 🤯.  
+
+Nobel Prize winner Psychologist [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman) in his book [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) writes that our brains are lazy and have learned to conserve energy. Most of the things we know today are things we learned in school, or from our parents or other people. This means your knowledge is limited to what you’ve already learned or seen. How do you get new unbiased information?
+
+News and social media, which are the primary sources for knowledge for most people today, don’t offer objective advice. Moreover, trust is harder to establish on the internet. The miracle drug with 5-star ratings could be just ill-tasting sugar syrup with fake reviews.
+
+This repository aims to share “*Life Pro Tips*” that often get overlooked. 
 
 ## Steps to improve your life
 
@@ -14,9 +20,11 @@ The list is inspired by the list James Clear authored in [Atomic Habits](https:/
 
 
 - Buy a water filter to clean your drinking water. Avoid paying for bottled water. 
+- Drink enough water to prevent dehydration, which can lead to serious health issues later in life. 
 - Buy smaller plates to eat less. 
 - Eat freshly cooked food. 
 - Avoid junk as much as possible. If MickeyDees is your weakness, track your visits and set a goal to reduce over time. 
+- Ask your doctor if you should take Vitamin D. 
 
 **Sleep**
 
