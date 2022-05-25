@@ -43,19 +43,19 @@ This repository aims to share “*Life Pro Tips*” that often get overlooked.
 **Productivity**
 
 
-- Unsubscribe from emails
-- Turn off notifications and mute group chats
-- Set your phone on silent
-- Use filters, keep marketing out of your inbox
-- Don’t install apps that let you *kill ~~productivity~~ time*
+- Unsubscribe from emails.
+- Turn off notifications and mute group chats.
+- Set your phone on silent.
+- Use filters, keep marketing out of your inbox.
+- Don’t install apps that let you *kill ~~productivity~~ time.*
 
 **Happiness**
 
 
 - Get a pet (May not be for everyone. Only get a pet if you have the time to dedicate to your pet’s upbringing).
 - Move to a friendly neighborhood.
-- Love your family but don’t let anyone manipulate you into doing something against your will
-- Do not let make others make life choices for you
+- Love your family but don’t let anyone manipulate you into doing something against your will.
+- Do not let make others make life choices for you.
 - Invest in your happiness by seeking methods like mindfulness that are proven to improve mental health.  
 - Don’t compare yourself with others. Aggressively compare yourself with yourself from the past.
 - Maintain a gratitude journal.  
