@@ -81,6 +81,15 @@ This repository aims to share “*Life Pro Tips*” that often get overlooked.
 - Insure your home, auto, etc. Basically, anything that Geico commercials sell.
 - ~~Cut cable~~ Throw your TV out and put up a nice bookshelf instead, and start building a library of books that will improve your life 😊
 
+**Career**
+
+
+- Try to keep your knowledge current by choosing 1-3 sources of information.
+- Avoid information overload. 
+- Network with like-minded people. 
+- Take professional risks early in your career. 
+- Don’t consider any profession “out of your reach”. It may be expensive to do, but if you can get the training, you can perform any job. For inspiration read [The Biggest Bluff](https://www.goodreads.com/book/show/49814228-the-biggest-bluff). With a Ph.D. in psychology and zero experience in poker, the author decides to compete in the prestigious World Series of Poker with barely twelve months of training and actually wins. How cool is that!
+
 
 ----
 
