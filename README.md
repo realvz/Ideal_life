@@ -59,6 +59,7 @@ The list is inspired by the list James Clear authored in [Atomic Habits](https:/
 - Good shoes prevent backache. Seriously, you may think that it’s your chair or posture or something else, but bad ill-fitting shoes often go undetected. 
 - Invest in a good chair and desk
 - Engage in physical activities that elevate your heart rate above 120bpm for at least 150 minutes a week. 
+- Avoid breathing through your mouth. Breathing through mouth can lead to diseases later in life. As long as your nose still hangs over your lips, try sucking in air through those tubes instead of the mouth. 
 
 **Finance**
 
