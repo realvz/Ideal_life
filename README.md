@@ -32,7 +32,9 @@ This repository aims to share “*Life Pro Tips*” that often get overlooked.
 - Buy the best mattress and pillow you can afford. Doctors recommend 7-8 hours of sleep every night. That’s 33% of your life!
 - Don’t put your bed and TV in the same room. If you only have one room then, consider eliminating the TV. 
 - Get blackout curtains. 
-- Try a white noise machine for better sleep.
+- Try a white noise machine for better sleep. You can also use an old radio or your phone.
+	- On MacOS, you can use `play` to generate white noise. I use this in combination with Alfred. 
+		- `/opt/homebrew/bin/play -n synth 180:00 whitenoise` 
 - Chamomile tea and Valerian root help improve sleep.
 - Maintain a strict sleep schedule. 
 - Read [Why We Sleep by Matthew Walker, PhD](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316)
