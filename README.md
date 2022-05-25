@@ -3,7 +3,7 @@
 > “An unexamined life is not worth living” – Socrates
 
 
-This repository is an attempt to create a list of everything that improves the quality of life.
+This repository is an attempt to compile a list of actions that improves the quality of life.
 
 The list is inspired by the list James Clear authored in [Atomic Habits](https://jamesclear.com/atomic-habits). While the list may seem obvious, you'd be surprised to learn how many adults grow up unprepared for life. 
 
@@ -21,9 +21,14 @@ The list is inspired by the list James Clear authored in [Atomic Habits](https:/
 **Sleep**
 
 
-- Buy the best mattress you can afford. Doctors recommend 7-8 hours of sleep every night. That’s 33% of your life!
-- Get blackout curtains
+- Buy the best mattress and pillow you can afford. Doctors recommend 7-8 hours of sleep every night. That’s 33% of your life!
 - Don’t put your bed and TV in the same room. If you only have one room then, consider eliminating the TV. 
+- Get blackout curtains. 
+- Try a white noise machine for better sleep.
+- Chamomile tea and Valerian root help improve sleep.
+- Maintain a strict sleep schedule. 
+- Read [Why We Sleep by Matthew Walker, PhD](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316)
+- Avoid breathing through your nose when sleeping. Use tape to keep your mouth closed. 
 
 **Productivity**
 
@@ -37,12 +42,13 @@ The list is inspired by the list James Clear authored in [Atomic Habits](https:/
 **Happiness**
 
 
-- Get a pet (May not be for everyone. Only get a pet if you have the time to dedicate to your pet’s upbringing)
-- Move to a friendly neighborhood
+- Get a pet (May not be for everyone. Only get a pet if you have the time to dedicate to your pet’s upbringing).
+- Move to a friendly neighborhood.
 - Love your family but don’t let anyone manipulate you into doing something against your will
 - Do not let make others make life choices for you
 - Invest in your happiness by seeking methods like mindfulness that are proven to improve mental health.  
-- Don’t compare yourself with others. Aggressively compare yourself with yourself from the past. 
+- Don’t compare yourself with others. Aggressively compare yourself with yourself from the past.
+- Maintain a gratitude journal.  
 
 **General Health**
 
