@@ -90,6 +90,26 @@ This repository aims to share “*Life Pro Tips*” that often get overlooked.
 - Take professional risks early in your career. 
 - Don’t consider any profession “out of your reach”. It may be expensive to do, but if you can get the training, you can perform any job. For inspiration read [The Biggest Bluff](https://www.goodreads.com/book/show/49814228-the-biggest-bluff). With a Ph.D. in psychology and zero experience in poker, the author decides to compete in the prestigious World Series of Poker with barely twelve months of training and actually wins. How cool is that!
 
+**Interpersonal skills**
+
+- Be approachable. Learn to Smile.
+- Maintain a proper posture. Stand straight, shoulders back, chin up. 
+- Learn to engage others in small talk. (Prime the conversation, put others at ease, begin to build a relationship.)
+- Learn to focus on others, not yourself. (Be aware of others around you.)
+- Be present; be where you are. (The most important place for you to be is where you are at—if not, why are you there?)
+- Learn to be helpful. (What are the other person’s needs? How can you best help the individual?)
+- Learn to be concerned. (The world is not just about you.)
+- Learn to be friendly. (Become a friend—the more you interact with others, the higher the likelihood that you will enjoy the work you do.)
+- Learn to build trust. (If you say something, do it; if you have an issue with someone, deal directly with that person, rather than discussing the problem with others.)
+- Learn to say yes. (Don’t find excuses to disengage or avoid what is hard. Are there alternatives that would enable you to say yes?)
+- Learn to listen. (Repeat what you have heard; don’t draw conclusions; ask questions out of genuine interest.)
+- Be knowledgeable; share information, not conclusions.
+- Allow choice. (One of the best ways to direct a decision is not to dictate, but rather to present selectable alternatives—it allows the other person to take ownership. The next time you are at a restaurant, watch how your interactions with the waiter or waitress progress.)
+- Do not stray from the point at hand and go off on a tangent.
+- Be aware of the entire context of the discussion, and do not repeat unnecessary information or stray outside it.”
+
+*Source: 12 Essential Skills for Software Architects by Dave Hendricksen*
+
 
 ----
 
